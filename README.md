@@ -13,9 +13,9 @@ when he decided to become BestMan!
 
 ## Dependcies used: 
 
-- (p5.js)[][]
-- (p5.play.js)[]
-- (matter.js)[]
+- [p5.js]()
+- [p5.play.js]()
+- [matter.js]()
 
 ## View the Project 
 
