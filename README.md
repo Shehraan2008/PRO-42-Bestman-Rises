@@ -19,4 +19,4 @@ when he decided to become BestMan!
 
 ## View the Project 
 
-Permenant Link to the project: 
+Permenant Link to the project: https://shehraan2008.github.io/PRO-42-Bestman-Rises/
